@@ -24,6 +24,7 @@ WHEN the game is over
 THEN I can save my initials and my score
 ```
 ## Deployed Link
+https://tianpnce.github.io/code-quiz/
 
 ## Screenshots
 ### Start Screen
